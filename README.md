@@ -1,4 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/reinerh%2Fdhbw%2Ftel19a-inf2-jupyter/master?urlpath=lab)
+[//]:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TEL20A/Informatik1/HEAD?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TEL20A/Informatik1/HEAD)
 
 # TEL20A-Inf-Jupyter
 
