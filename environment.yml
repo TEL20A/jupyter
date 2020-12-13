@@ -1,0 +1,12 @@
+name: tel20-inf
+channels:
+  - conda-forge
+dependencies:
+  - cmake
+  - jupyterlab
+  - nodejs
+  - rise
+  - voila
+  - xeus-cling
+  - xwidgets
+  - widgetsnbextension
